@@ -1,6 +1,4 @@
 # exercise-repo
 repo made for exercise 
-Test edit. Testing conflicts 
-Some changes here 
-Conflict resolved
+Content here - changes done in branch master
  
