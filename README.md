@@ -1,5 +1,6 @@
 # exercise-repo
 repo made for exercise
  
-Conflict resolved!
+Repository made for exercises.
+Hello again
  
