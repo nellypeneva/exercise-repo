@@ -1,6 +1,4 @@
 # exercise-repo
 repo made for exercise 
-Test edit. Testing conflicts 
-Some changes here 
-Conflict resolved
+changes - brach test-branch - gitBash tests
  
