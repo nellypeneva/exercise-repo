@@ -1,5 +1,5 @@
 # exercise-repo
 repo made for exercise
  
-Conflict resolved!
+Edited again in maister branch
  
